@@ -1,3 +1,1 @@
-## Information about Blissfull Website ##
-
-
+## Information about BLissfull Website
